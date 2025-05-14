@@ -1,0 +1,162 @@
+@media only screen and (max-width: 600px) {
+    .services_text_item h3{font-size: 20px;margin-bottom: 15px;}
+    .header_contact_btn{display: none;}
+    .best_aword_best_proje{display: none;}
+    .heading_common{font-size: 25px;}
+    .home_recent_work_head{width: 100%;}
+    .home_recent_videos_items{margin-bottom: 20px;}
+    .testimonial_head{width: 100%;}
+    .navbar-light .navbar-toggler{background-color: #fff;}
+    .header_banner_text h3 {font-size: 15px;}
+    .header_banner_text h2{font-size: 22px;margin-bottom: 1px;}
+    .header_banner_text p {font-size: 14px;}
+    .header_banner_text {padding: 2.5em 0em 1em 0em;}
+    .header_banner_text_btn{margin-top: 0px;}
+    .about_us_left_img_2{display: none;}
+    .about_us_left_img img {width: 100%;}
+    .about_us_right_content { padding-left: 0; margin-top: 20px;}
+    .services_text_head h3 { font-size: 25px;  margin-bottom: 22px;}
+    section.our_services_sec {padding: 14px 0px;}
+    .services_text_head {margin-bottom: 20px;}
+    body .testimonial {padding: 40px 0;}
+    body .testimonial .row .carousel > h3{font-size: 15px;}
+    body .testimonial .row .carousel h1{font-size: 25px;  margin-top: 8px;}
+    body .testimonial .row .carousel .carousel-indicators{padding-top: 13px;}
+    .services_text_item{padding: 2em 1em 2em 1em;}
+    .how_it_work_item_head h2 {font-size: 25px; margin-bottom: 14px;}
+    .footer_navbar .list-unstyled{display: block;}
+    .footer_about{width: 100%;}
+    .how_it_work_item_singal h3{font-size: 19px;}
+    .footer_address_sec {padding-left: 0px;}
+    .footr_content.text-center {text-align: left!important; margin-bottom: 15px; margin-top: 15px;}
+    .footer_navbar .list-unstyled li a{padding: 6px 12px; font-size: 15px;}
+    .hire_our_on_demand{padding: 32px 0px;}
+    .hire_our_on_demand .heading_common {font-size: 25px;}
+    .services_text_item a{margin-top: 0px;font-size: 16px;}
+    .subheading_title{letter-spacing: 1.5px; margin-bottom: 7px; font-size: 15px;}
+    .testimonial_head .heading_common {font-size: 23px; line-height: 31px;}
+    .testimonial_slider_item_list{padding: 3px;}   
+    .how_it_work_item_bg {padding-top: 5px;}
+    .Picture_Perfect .heading_common{font-size: 23px;}
+    .Picture_Perfect {padding: 10px 0px;}
+    .key_features_sec{padding-top: 24px;}
+    .key_features_sec .key_features_items h3{font-size: 20px;margin-bottom: 6px;}
+    .key_features_items {margin-bottom: 30px;}
+    .navbar-expand-lg .navbar-nav .nav-link{padding: 8px 20px;}
+    .default_header_banner_head h2{font-size: 23px;}
+    .default_header_banner{padding: 30px 10px;}
+    .who_we_are_head {margin-bottom: 30px;}
+    .who_we_are_sec{padding-top: 30px;}
+    .who_we_are_items p {font-size: 15px;}
+    .who_we_are_items {padding: 20px; min-height: auto; margin-bottom: 15px;}
+    .who_we_are_sec{padding-bottom: 25px;}
+    .years_experience_icon{width: 30px;}
+    .years_experience_icon i{font-size: 30px;}
+    .years_experience_text{padding-left: 10px;}
+    .years_experience_text h1{font-size: 2rem;line-height: 0.1em;}
+    .years_experience_text .plus{left: 0; vertical-align: middle;  position: relative; right: 0;}
+    .years_experience_list{margin-bottom: 20px;}
+    .about_videos_sec{height: 238px;}
+    .what_we_offers_itms h3{font-size: 20px;}
+    .what_we_offers_itms_img {margin-bottom: 20px;}
+    .hire_our_on_demand_btn {margin-top: 33px;}
+    .undoubtedly_ulimate_item_img{height: 282px;}
+    .who_we_are_items h3{font-size: 20px; margin-bottom: 7px;}
+    .undoubtedly_ulimate_item_text .btn_btn_default {margin-top: 13px;}
+    .every_video_editing_list .list-unstyled{display: block;}
+    .every_video_editing_list .list-unstyled li{width: 49%;}
+    .footer_navbar p{font-size: 14px;}
+    .copywrite_text p{font-size: 14px;}
+    .every_video_editing_list li h4{font-size: 14px;}
+    .schedule_btn .btn_btn_default{font-size: 15px;}
+    .default_header_banner_head p{font-size: 16px;}
+    .contact_form_contact_infor {padding-right: 0;}
+    .contact_map iframe {height: auto;}
+    .contac_inform_icon img {width: 37px;}
+    .contac_inform_item .contac_inform_icon{width: 40px;}
+    .contac_inform_text a{font-size: 15px;}
+    .contact_forms{padding: 20px;}
+    .testimonial_slider_item_head h6{font-size: 14px;}
+    .testimonial_slider_item_list{margin-bottom: 124px;}
+}
+@media only screen and (min-width:600px) and (max-width:767px){
+    .services_text_item h3{font-size: 20px;margin-bottom: 15px;}
+    .header_contact_btn{display: none;}
+    .best_aword_best_proje{display: none;}
+    .heading_common{font-size: 25px;}
+    .home_recent_work_head{width: 100%;}
+    .home_recent_videos_items{margin-bottom: 20px;}
+    .testimonial_head{width: 100%;}
+    .navbar-light .navbar-toggler{background-color: #fff;}
+    .header_banner_text h3 {font-size: 15px;}
+    .header_banner_text h2{font-size: 22px;margin-bottom: 1px;}
+    .header_banner_text p {font-size: 14px;}
+    .header_banner_text {padding: 2.5em 0em 1em 0em;}
+    .header_banner_text_btn{margin-top: 0px;}
+    .about_us_left_img_2{display: none;}
+    .about_us_left_img img {width: 100%;}
+    .about_us_right_content { padding-left: 0; margin-top: 20px;}
+    .services_text_head h3 { font-size: 25px;  margin-bottom: 22px;}
+    section.our_services_sec {padding: 14px 0px;}
+    .services_text_head {margin-bottom: 20px;}
+    body .testimonial {padding: 40px 0;}
+    body .testimonial .row .carousel > h3{font-size: 15px;}
+    body .testimonial .row .carousel h1{font-size: 25px;  margin-top: 8px;}
+    body .testimonial .row .carousel .carousel-indicators{padding-top: 13px;}
+    .services_text_item{padding: 2em 1em 2em 1em;}
+    .how_it_work_item_head h2 {font-size: 25px; margin-bottom: 14px;}
+    .footer_navbar .list-unstyled{display: block;}
+    .footer_about{width: 100%;}
+    .how_it_work_item_singal h3{font-size: 19px;}
+    .footer_address_sec {padding-left: 0px;}
+    .footr_content.text-center {text-align: left!important; margin-bottom: 15px; margin-top: 15px;}
+    .footer_navbar .list-unstyled li a{padding: 6px 12px; font-size: 15px;}
+    .hire_our_on_demand{padding: 32px 0px;}
+    .hire_our_on_demand .heading_common {font-size: 25px;}
+    .services_text_item a{margin-top: 0px;font-size: 16px;}
+    .subheading_title{letter-spacing: 1.5px; margin-bottom: 7px; font-size: 15px;}
+    .testimonial_head .heading_common {font-size: 23px; line-height: 31px;}
+    .testimonial_slider_item_list{padding: 3px;}   
+    .how_it_work_item_bg {padding-top: 5px;}
+    .Picture_Perfect .heading_common{font-size: 23px;}
+    .Picture_Perfect {padding: 10px 0px;}
+    .key_features_sec{padding-top: 24px;}
+    .key_features_sec .key_features_items h3{font-size: 20px;margin-bottom: 6px;}
+    .key_features_items {margin-bottom: 30px;}
+    .navbar-expand-lg .navbar-nav .nav-link{padding: 8px 20px;}
+    .default_header_banner_head h2{font-size: 23px;}
+    .default_header_banner{padding: 30px 10px;}
+    .who_we_are_head {margin-bottom: 30px;}
+    .who_we_are_sec{padding-top: 30px;}
+    .who_we_are_items p {font-size: 15px;}
+    .who_we_are_items {padding: 20px; min-height: auto; margin-bottom: 15px;}
+    .who_we_are_sec{padding-bottom: 25px;}
+    .years_experience_icon{width: 30px;}
+    .years_experience_icon i{font-size: 30px;}
+    .years_experience_text{padding-left: 10px;}
+    .years_experience_text h1{font-size: 2rem;line-height: 0.1em;}
+    .years_experience_text .plus{left: 0; vertical-align: middle;  position: relative; right: 0;}
+    .years_experience_list{margin-bottom: 20px;}
+    .about_videos_sec{height: 238px;}
+    .what_we_offers_itms h3{font-size: 20px;}
+    .what_we_offers_itms_img {margin-bottom: 20px;}
+    .hire_our_on_demand_btn {margin-top: 33px;}
+    .undoubtedly_ulimate_item_img{height: 282px;}
+    .who_we_are_items h3{font-size: 20px; margin-bottom: 7px;}
+    .undoubtedly_ulimate_item_text .btn_btn_default {margin-top: 13px;}
+    .every_video_editing_list .list-unstyled{display: block;}
+    .every_video_editing_list .list-unstyled li{width: 49%;}
+    .footer_navbar p{font-size: 14px;}
+    .copywrite_text p{font-size: 14px;}
+    .every_video_editing_list li h4{font-size: 14px;}
+    .schedule_btn .btn_btn_default{font-size: 15px;}
+    .default_header_banner_head p{font-size: 16px;}
+    .contact_form_contact_infor {padding-right: 0;}
+    .contact_map iframe {height: auto;}
+    .contac_inform_icon img {width: 37px;}
+    .contac_inform_item .contac_inform_icon{width: 40px;}
+    .contac_inform_text a{font-size: 15px;}
+    .contact_forms{padding: 20px;}
+    .testimonial_slider_item_head h6{font-size: 14px;}
+    .testimonial_slider_item_list{margin-bottom: 124px;}
+}
